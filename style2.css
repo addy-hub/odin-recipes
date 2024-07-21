@@ -1,0 +1,28 @@
+body{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+h1,h2{
+    color: yellow;
+    margin-top: 20px;
+}
+
+p{
+    color: white;
+    margin-right: 200px;
+}
+
+ul{
+    color : blue;
+}
+
+ol{
+    color:red;
+    margin-right: 200px;
+}
+
+img{
+    margin: 10px;
+}

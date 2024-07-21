@@ -1,0 +1,42 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+h1{
+    color:orange;
+    margin-top: 30px;
+    text-align: center;
+    flex: auto;
+}
+
+button{
+    font-style: italic;
+    border: 2px solid black;
+    padding: 10px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tc{
+    background-color: #EEEE;
+    color: red;
+}
+
+.pr{
+    background-color: white;
+}
+
+.gn{
+    background-color: yellow;
+}
+
+li{
+    color: yellow;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+
+
+
